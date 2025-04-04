@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fjrodriguez.github.io'
 languageCode = 'eo'
 title = 'Blog de Paco'
 theme = 'LoveIt'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

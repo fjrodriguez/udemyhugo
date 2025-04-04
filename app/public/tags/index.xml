@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Blog de Paco</title>
-        <link>http://localhost:39327/tags/</link>
+        <link>http://localhost:40313/tags/</link>
         <description>Tags - Tag - Blog de Paco</description>
-        <generator>Hugo -- gohugo.io</generator><language>eo</language><managingEditor>pako.rodriguez@gmail.com (Francisco J. Rodríguez Martín)</managingEditor>
-            <webMaster>pako.rodriguez@gmail.com (Francisco J. Rodríguez Martín)</webMaster><lastBuildDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</lastBuildDate><atom:link href="http://localhost:39327/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>eo</language><lastBuildDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</lastBuildDate><atom:link href="http://localhost:40313/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Japana</title>
-    <link>http://localhost:39327/tags/japana/</link>
+    <link>http://localhost:40313/tags/japana/</link>
     <pubDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</pubDate>
-    <author>Francisco J. Rodríguez Martín</author>
-    <guid>http://localhost:39327/tags/japana/</guid>
+    <author>xxxx</author>
+    <guid>http://localhost:40313/tags/japana/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
