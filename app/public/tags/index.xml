@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:34573/tags/</link>
+    <link>http://localhost:38503/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:34573/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>eo</language>
+    <lastBuildDate>Fri, 04 Apr 2025 15:37:39 +0100</lastBuildDate>
+    <atom:link href="http://localhost:38503/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japana</title>
+      <link>http://localhost:38503/tags/japana/</link>
+      <pubDate>Fri, 04 Apr 2025 15:37:39 +0100</pubDate>
+      <guid>http://localhost:38503/tags/japana/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
