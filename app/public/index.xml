@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog de Paco</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Blog de Paco</description>
-    <generator>Hugo</generator>
-    <language>eo</language>
-    <lastBuildDate>Fri, 04 Apr 2025 15:37:39 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rimedoj por lerni la japanan</title>
-      <link>http://localhost:1313/posts/2025/japanese_resources/</link>
-      <pubDate>Fri, 04 Apr 2025 15:37:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/japanese_resources/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;p&gt;ŭa, ĵ, ĉ. Ĉ.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog de Paco</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>eo</language><lastBuildDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Rimedoj por lerni la japanan</title>
+    <link>http://localhost:1313/posts/2025/japanese_resources/</link>
+    <pubDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</pubDate>
+    <author>Francisco J. Rodríguez Martín</author>
+    <guid>http://localhost:1313/posts/2025/japanese_resources/</guid>
+    <description><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io" target="_blank" rel="noopener noreffer ">Hugo</a> website!</p>
+<p>ŭa, ĵ, ĉ. Ĉ.</p>]]></description>
+</item>
+</channel>
 </rss>
