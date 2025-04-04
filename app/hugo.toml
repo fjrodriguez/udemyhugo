@@ -1,4 +1,4 @@
-baseURL = 'https://fjrodriguez.github.io'
+baseURL = 'http://fjrodriguez.github.io'
 languageCode = 'eo'
 title = 'Blog de Paco'
 theme = 'LoveIt'
