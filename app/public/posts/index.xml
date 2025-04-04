@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Blog de Paco</title>
-        <link>http://localhost:40313/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>All Posts | Blog de Paco</description>
-        <generator>Hugo -- gohugo.io</generator><language>eo</language><lastBuildDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</lastBuildDate><atom:link href="http://localhost:40313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>eo</language><lastBuildDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Rimedoj por lerni la japanan</title>
-    <link>http://localhost:40313/posts/2025/japanese_resources/</link>
+    <link>http://localhost:1313/posts/2025/japanese_resources/</link>
     <pubDate>Fri, 04 Apr 2025 15:37:39 &#43;0100</pubDate>
     <author>Francisco J. Rodríguez Martín</author>
-    <guid>http://localhost:40313/posts/2025/japanese_resources/</guid>
+    <guid>http://localhost:1313/posts/2025/japanese_resources/</guid>
     <description><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
 <p>Visit the <a href="https://gohugo.io" target="_blank" rel="noopener noreffer ">Hugo</a> website!</p>
